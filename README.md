@@ -1,2 +1,2 @@
 # MySQL
-Scripts mysql para db do hospital.
+Scripts de estudo do MySQL para DB de um Hospital fictício.
